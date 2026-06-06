@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://localhost:5080'
+  apiBaseUrl: 'https://noteflow-production-fcd1.up.railway.app'
 };
